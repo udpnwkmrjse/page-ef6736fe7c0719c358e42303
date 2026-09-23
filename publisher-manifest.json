@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5f084fb2f528116448154ad4",
+  "owner": "udpnwkmrjse",
+  "repo": "page-ef6736fe7c0719c358e42303",
+  "title": "山药网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ef6736fe7c0719c358e42303",
+      "a": "山药网",
+      "b": "稳定全球clash加速器",
+      "entity": "山药网",
+      "brand": "山药网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "be4ac2a3b3d62b22dbd56da72a6e62040bd27e4fae444621641462a985f02e6c",
+      "content": {
+        "primary_entity": "山药网",
+        "keyword1": "山药网",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始选择套餐",
+          "AI_DESCRIPTION": "，山药网提供基础版、旗舰版与团队版三档订阅，覆盖不同设备数量和流量需求，适合个人到团队的跨境访问场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个角度快速了解套餐差异。",
+          "AI_FEATURES_TITLE": "套餐维度",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，支持3台设备，适合轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB，支持5台设备，含IPLC专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB，支持20台设备，可定制路由。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "周期与权益",
+          "AI_GUIDE_INTRO": "按需求选套餐、核对设备适配要求、再依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "上手流程",
+          "AI_HERO_INTRO": "山药网提供多档海外加速订阅，可按流量、设备数量和线路类型选择适合的方案，用于日常浏览与跨境访问。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "支持按月或按年付费",
+          "AI_HIGHLIGHT_3": "多设备在线，灵活切换",
+          "AI_PLANS_INTRO": "基础版适合轻度个人，旗舰版适合多设备日常使用，团队版适合多人协作与高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和在线设备数量，从基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本，核对所选套餐支持的设备数量与线路类型。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅，完成配置后即可正常使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "山药网订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备，月付 ¥15，年付 ¥150。适合个人日常浏览和轻度视频使用，选择普通线路节点池即可。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备，流量提升到每月 300GB，月付 ¥35。适合一人多设备或两人小家庭使用，全节点流媒体解锁较省心。",
+          "AI_FAQ_ANSWER_3": "可以。套餐按月或按年付，按年付通常对应更低的月均价格，例如基础版按年 ¥150。在套餐对比中确认周期后再购买即可。",
+          "AI_FAQ_ANSWER_4": "按设备系统选择客户端：Windows 和 macOS 使用桌面客户端，iOS 使用 Shadowrocket 或 Stash，Android 使用 Clash for Android 或 sing-box。安装后导入订阅链接即可。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供 VIP 高带宽节点和企业定制路由。适合小团队协作，也方便统一管理多个设备。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版能支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "套餐可以按月付费吗？",
+          "AI_FAQ_QUESTION_4": "不同系统怎么选客户端？",
+          "AI_FAQ_QUESTION_5": "团队版适合多设备协作吗？",
+          "AI_FAQ_TITLE": "套餐与设备常见问答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrt99bkv3a.com",
+    "host": "xn--yfrt99bkv3a.com"
+  },
+  "file_hashes": {
+    "index.html": "45a497722a773484eb4c7a1fc1b2149c93f7a16dd7f95ff29fd3742a758063dd",
+    "sitemap.xml": "05ed04e3df396a26250600dcdb3369d734183732d8d2fcdd5f53e956c74a20da",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8745ac137bd07a9ce2ff36755e6b9bbcd8351da8111982923f8241e2e43b2a19",
+    "robots.txt": "1560fb65f66f4bf08964493b03f6042e684a0b17d22e6d4a86fdd8464ed2a5ee",
+    "9c19a156787528f4605f927b74df99e3.txt": "a3ceb510c5fe82be6778ad4a121b0e0e41e5dd0632e05814e47d9677fe9028fe"
+  },
+  "revision": "3d6cdb5791ed2d01bc50014d22dcff8be979413fcc33b0f9201dcdcdf992785b"
+}
